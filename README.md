@@ -1,2 +1,28 @@
-# LonelySufers
-Spring legacy project
+# LonelySurfers
+This project is a website based on the Spring framework.
+
+
+![1](https://user-images.githubusercontent.com/74534262/236205742-d9697272-f07a-4a08-894d-842ccc938cee.jpg)
+![3](https://user-images.githubusercontent.com/74534262/236205750-10bcefc8-f589-4341-853a-8a8fe2270adb.jpg)
+![7](https://user-images.githubusercontent.com/74534262/236205757-d975ed4a-4b12-4e3c-aa4c-959d49285239.jpg)
+![8](https://user-images.githubusercontent.com/74534262/236205772-954a7b35-3df2-49c8-9d4d-d13fd3b16daa.jpg)
+![9](https://user-images.githubusercontent.com/74534262/236205776-4a31f93d-b5af-4d9a-99bc-9cfc828ef64e.jpg)
+![10](https://user-images.githubusercontent.com/74534262/236205778-22ae0b42-4d48-4fd4-9c84-c865450abf57.jpg)
+![11](https://user-images.githubusercontent.com/74534262/236205783-295517ba-997c-48fb-a0f4-e8bb3b0ad745.jpg)
+![12](https://user-images.githubusercontent.com/74534262/236205793-9ae1ad77-6d02-4a1a-8006-c862e42e22d8.jpg)
+![48](https://user-images.githubusercontent.com/74534262/236205799-6791972c-e696-43e2-b940-046de0392f99.jpg)
+![49](https://user-images.githubusercontent.com/74534262/236205803-e291ac0a-4c37-4c79-8447-78374df6074e.jpg)
+![51](https://user-images.githubusercontent.com/74534262/236205809-12575abb-3dd7-46a2-8f27-2cf196d9f0fa.jpg)
+![52](https://user-images.githubusercontent.com/74534262/236205813-c283a851-bac6-40d5-ac34-3b3f38204874.jpg)
+![56](https://user-images.githubusercontent.com/74534262/236205817-62601ce4-f55c-4e8a-8215-94378cd6d2a9.jpg)
+![60](https://user-images.githubusercontent.com/74534262/236205829-e447e217-bcf5-4461-97bc-ad7ba04a023c.jpg)
+![63](https://user-images.githubusercontent.com/74534262/236205835-0545b634-ea1f-435d-b7ce-25f8decd0c66.jpg)
+![66](https://user-images.githubusercontent.com/74534262/236205841-2d22de38-c49d-4cbd-b8b1-ffbe5389b7c9.jpg)
+![67](https://user-images.githubusercontent.com/74534262/236205846-73ec069f-d886-4e59-b96e-cdb97b237564.jpg)
+![69](https://user-images.githubusercontent.com/74534262/236205849-0d4bc085-ecd5-4857-ba18-b2c0dd94365f.jpg)
+![71](https://user-images.githubusercontent.com/74534262/236205853-7a857c10-b90d-4ef5-85d5-84296ed1e328.jpg)
+![73](https://user-images.githubusercontent.com/74534262/236205860-0ba18ee3-150f-4649-b3eb-9735eded27dc.jpg)
+![74](https://user-images.githubusercontent.com/74534262/236205876-f3b37c57-1194-4bca-a169-acab502922b1.jpg)
+![80](https://user-images.githubusercontent.com/74534262/236205887-e34ddfdd-9ae6-4421-bbfc-91d5998dd469.jpg)
+![81](https://user-images.githubusercontent.com/74534262/236205892-07cc7676-439b-47a3-a49f-902192121609.jpg)
+![83](https://user-images.githubusercontent.com/74534262/236205896-b2ca610e-df23-4bf2-991f-03e542bc7704.jpg)
